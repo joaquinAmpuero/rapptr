@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+
+    <!-- Main Screen Strings -->
+    <string name="activity_main_title">Coding Tasks</string>
+    <string name="chat_title">Chat</string>
+    <string name="animation_title">Animation</string>
+    <string name="login_title">Login</string>
+    <string name="chat_button">CHAT</string>
+    <string name="login_button">LOG IN</string>
+    <string name="animation_button">ANIMATION</string>
+    <string name="placeholder_username">Username</string>
+    <string name="placeholder_password">Password</string>
+    <string name="login_button_label">LOGIN</string>
+    <string name="dialog_dismiss">Dismiss</string>
+    <string name="time">Time: </string>
+    <string name="fade_in">FADE IN</string>
+    <string name="fade_out">FADE OUT</string>
+    <string name="emptyState">No content available</string>
+    <string name="errorState">Something went wrong</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+
+</resources>

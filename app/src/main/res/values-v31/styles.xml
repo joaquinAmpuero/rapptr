@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowSplashScreenBackground">@color/colorPrimary</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_100tb</item>
+        <item name="android:splashScreenTheme">@drawable/splash</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_animation</item>
+        <item name="android:windowSplashScreenAnimationDuration">2000</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="background">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
